@@ -1,4 +1,12 @@
-## Hi there 👋
+## GamesMadeInPola
+
+Bienvenido al equipo de desarrolladores de GamesMadeInPola.
+En este espacio creamos, organizamos y damos seguimiento a todo lo relacionado con programación y sus errores / adiciones.
+
+Te recomendamos que te uses alguna guía de como usar los repositorios de GitHub para poder interactuar de mejor manera con la organización y los miembros.
+
+Cualquier duda puedes usar nuestro Discord Staff:
+https://discord.gg/DyPTG4Vw2j
 
 <!--
 
